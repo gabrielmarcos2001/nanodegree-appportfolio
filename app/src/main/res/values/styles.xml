@@ -1,0 +1,32 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+
+    </style>
+
+    <!-- Main Button Style -->
+    <style name="mainButtonStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/main_button</item>
+        <item name="android:textColor">@color/main_button_text</item>
+    </style>
+
+    <!-- Secondary Button Style -->
+    <style name="secondaryButtonStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/secondary_button</item>
+        <item name="android:textColor">@color/secondary_button_text</item>
+    </style>
+
+    <!-- Titles Style -->
+    <style name="titles">
+        <item name="android:textSize">22sp</item>
+        <item name="android:textColor">@color/app_black</item>
+        <item name="android:padding">20dp</item>
+        <item name="android:gravity">center_horizontal</item>
+    </style>
+
+</resources>

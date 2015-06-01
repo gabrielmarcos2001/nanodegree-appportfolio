@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="app_black">#000000</color>
+    <color name="app_white">#ecf0f1</color>
+
+    <!-- Main Button Colors -->
+    <color name="main_button_touched">#d35400</color>
+    <color name="main_button_normal">#e67e22</color>
+    <color name="main_button_text">#ffffff</color>
+
+    <!-- Secondary Button Colors -->
+    <color name="secondary_button_touched">#c0392b</color>
+    <color name="secondary_button_normal">#e74c3c</color>
+    <color name="secondary_button_text">#ffffff</color>
+
+
+
+</resources>
